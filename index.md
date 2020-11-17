@@ -3,3 +3,6 @@
 I'm glad you are here. I plan to talk about ...
 
 My blog is empty now ...
+ 
+#Build settings
+theme: minima
