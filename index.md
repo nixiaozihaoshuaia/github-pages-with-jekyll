@@ -3,4 +3,8 @@
 I'm glad you are here. I plan to talk about ...
 
 My blog is empty now ...
+---
+title: "welcome to nixiaozihaoshuaia's blog"
+date: 2020-11-19
+---
 
